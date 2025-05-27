@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{603a9d83-b53e-4a22-bb7b-a0d61bc50a68}">
 		<property name="assetPath">
-			<value>Footsteps/Costumer/Wood/CostumerConcreteF_22.wav</value>
+			<value>Footsteps/CostumerWood/CostumerConcreteF22.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>
