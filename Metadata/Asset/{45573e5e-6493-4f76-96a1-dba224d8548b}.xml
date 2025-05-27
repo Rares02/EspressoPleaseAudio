@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="EncodableAsset" id="{45573e5e-6493-4f76-96a1-dba224d8548b}">
+		<property name="assetPath">
+			<value>InGameSounds/NegativeFeed/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{906d033d-bea9-4bad-b245-a9a6db12ac22}</destination>
+		</relationship>
+	</object>
+</objects>

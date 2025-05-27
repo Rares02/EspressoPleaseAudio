@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="EncodableAsset" id="{b328bdd3-ff4c-4d92-9f41-e8c7d1349340}">
+		<property name="assetPath">
+			<value>InGameSounds/MugStuff/MugDownSoft/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{906d033d-bea9-4bad-b245-a9a6db12ac22}</destination>
+		</relationship>
+	</object>
+</objects>
